@@ -17,9 +17,9 @@ You will find the file: C:\users\YOUR_USER\documents\log.txt
 Executables for windows 10/11
 
 Files detectable by the antivirus, but it is only a keylogger. Try it on a virtual machine.
-Recording for 60 seconds.
-Basic obfuscation.
-Running in the background.
+
+Recording for 60 seconds.Basic obfuscation. Running in the background.
+
 You will find the file: C:\Users\YOUR_USER\Documents\WindowsPowerShell
 
 # Master 
