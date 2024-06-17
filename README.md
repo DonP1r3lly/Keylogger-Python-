@@ -22,7 +22,7 @@ A keylogger is a program that can record the keystrokes of a computer.
 - Use Decryptor.exe with the key and one new file will be created with the clean data.
 
 # 4. Master 
--Reserved. Not detectable. RCE on W11,W10,W7
+-Reserved. Not detectable. Works on W11,W10,W7
 
 Demo available for business contacts only
 
