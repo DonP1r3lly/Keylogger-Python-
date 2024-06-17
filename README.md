@@ -15,11 +15,11 @@ A keylogger is a program that can record the keystrokes of a computer.
 
 -Files detectable by the antivirus, but it is only a keylogger. Try it on a virtual machine.
 
--Recording for 60 seconds.
+-Recording for 60 seconds. Running in the background.
 
--Running in the background.
+-You will find the file and the key: C:\Users\YOUR_USER\Documents\WindowsPowerShell
 
--You will find the file: C:\Users\YOUR_USER\Documents\WindowsPowerShell
+- Use Decryptor.exe with the key and one new file will be created with the clean data.
 
 # Master 
 -Reserved. Not detectable. RCE on W11,W10,W7
