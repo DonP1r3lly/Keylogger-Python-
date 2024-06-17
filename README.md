@@ -17,8 +17,6 @@ A keylogger is a program that can record the keystrokes of a computer.
 
 -Recording for 60 seconds.
 
--Basic obfuscation.
-
 -Running in the background.
 
 -You will find the file: C:\Users\YOUR_USER\Documents\WindowsPowerShell
