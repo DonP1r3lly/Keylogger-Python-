@@ -8,12 +8,13 @@ libraries: pip install pynput
 
 # 2. Advanced
 Recording for 30 seconds
-You will find the file: C:\users\YOURUSER\documents\log.txt
+You will find the file: C:\users\YOUR_USER\documents\log.txt
 
 # Pro 
 2 files: keylogger and decryptor
 Executables for windows 10/11
 Files detectable by the antivirus, but it is only a keylogger. Try it on a virtual machine.
+You will find the file: C:\Users\YOUR_USER\Documents\WindowsPowerShell
 
 # Master 
 Reserved. Not detectable. RCE on W11,W10,W7
