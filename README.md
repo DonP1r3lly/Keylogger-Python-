@@ -9,7 +9,7 @@ A keylogger is a program that can record the keystrokes of a computer.
 # 2. Advanced
 -Recording for 30 seconds. You will find the file: C:\users\YOUR_USER\documents\log.txt
 
-# Pro 
+# 3. Pro 
 -2 files: keylogger and decryptor
 -Executables for windows 10/11
 
@@ -21,7 +21,7 @@ A keylogger is a program that can record the keystrokes of a computer.
 
 - Use Decryptor.exe with the key and one new file will be created with the clean data.
 
-# Master 
+# 4. Master 
 -Reserved. Not detectable. RCE on W11,W10,W7
 
 Demo available for business contacts only
